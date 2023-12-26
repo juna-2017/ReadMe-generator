@@ -4,7 +4,7 @@
 README's are important to have so that other developers who come upon your project know what the app is for, how to usee it, how to install it, who and how to report any issues, and how to make contributions. With this ReadMe generator, it is a quick and easy way to generate professional ReadME.md files from a user's input through the command-line. Using this generator can allow project creators to spend more time working on their project(s).
 
 ## Installation
-Before running the ReadMe generator, one must first make sure to have [**Node.js**](https://nodejs.org/en/download) installed.
+Before running the ReadMe generator, you must first make sure to have [**Node.js**](https://nodejs.org/en/download) installed.
 
 ![Screenshot of official Node.js website](./assets/node-website-screenshot.png)
 
