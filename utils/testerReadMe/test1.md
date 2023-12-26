@@ -1,7 +1,9 @@
 # Example Project
-  ![](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![](https://img.shields.io/badge/license-ISC-blue.svg)
+
+
   ## Description
-  Some dummy text explaining the project
+  Example text explaining project
 
 
   ## Table of Contents
@@ -15,7 +17,7 @@
 
 
   ## Installation
-  None
+  Node
 
 
   ## Usage
@@ -23,7 +25,7 @@
 
 
   ## License
-   This repo is licensed by MIT.
+   This repo is licensed by ISC.
 
 
   ## Contribution 
@@ -35,6 +37,7 @@
 
 
   ## Questions
-   Here's a link to my GitHub: juna.2017
-   You can reach me at: juna_okon@yahoo.com
+   Here's a link to my GitHub: [juna-2017](https://github.com/juna-2017)
+   
+   You can reach me at: juna.okon@gmail.com
 
