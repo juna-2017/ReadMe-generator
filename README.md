@@ -30,4 +30,4 @@ Once the command is entered, you should see the first question appear in your te
 After inputting the initial response, it will continue to prompt for information about your application repository, which is then used to generate a high-quality, professional README in your README.md file.
 
 ## Link
-Here is a video link to see this generator deployed: 
+Here is a video link to see the functionality of this generator: [Watch Me!](https://drive.google.com/file/d/15uAJ1a_kkJwXjopTdoUB7GD4xx1ImJ8t/view?usp=drive_link)
